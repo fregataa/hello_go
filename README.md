@@ -1,2 +1,3 @@
 # hello_go
-Golang practice. following [the Official Document - Getting Start](https://golang.org/doc/#getting-started)
+
+Golang practice. following [the Official Document - Tutorial](https://golang.org/doc/tutorial/create-module)
